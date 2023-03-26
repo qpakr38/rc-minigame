@@ -7,7 +7,7 @@ const StartGameScreen = () => {
       <TextInput
         style={styles.numberInput}
         maxLength={2}
-        keybordType="number-pad"
+        keyboardType="number-pad"
         autoCapitalize="none"
         autoCorrect={false}
       />
